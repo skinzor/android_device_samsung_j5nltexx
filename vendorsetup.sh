@@ -1,2 +1,2 @@
-add_lunch_combo cm_j5nltexx-userdebug
-add_lunch_combo cm_j5nltexx-eng
+add_lunch_combo omni_j5nltexx-userdebug
+add_lunch_combo omni_j5nltexx-eng
